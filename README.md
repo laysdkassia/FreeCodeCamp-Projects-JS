@@ -1,4 +1,4 @@
-# FreeCodeCamp Projects in JavaScrip.
+# FreeCodeCamp Projects in JavaScript.
 
 FreeCodeCamp is a free online course platform.
 
