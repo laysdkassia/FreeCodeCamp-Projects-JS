@@ -40,4 +40,17 @@ methodoUnshift.unshift(["Paul", 35]);
 console.log(methodoUnshift);
 
 // 48 - Criar lista de compras.
+const myList = [["Chocolate Bar", 15], ["Chocolate Bar", 15],["Chocolate Bar", 15],["Chocolate Bar", 15],["Chocolate Bar", 15]];
+console.log(myList);
 
+// 49 - Escrever JavaScript reutilizável com funções.
+function reusableFunction() {
+  console.log("Hi World");
+}
+reusableFunction();
+
+// 50 - Passar valores para funções com argumentos.
+function functionWithArgs(param1, param2) {
+  console.log(param1 + param2);
+}
+functionWithArgs(10, 5);
